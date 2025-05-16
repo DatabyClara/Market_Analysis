@@ -1,5 +1,5 @@
 # Market_Analysis
-The notebook where the project was developed can be found above (market_analysis_project.ipynb).
+The market_analysis_project.ipynb notebook provided above contains the complete code for data cleaning and wrangling, creating visualizations, and conducting further analyses.
 
 ### What Was Done?
 A market analysis was conducted using open data on restaurants in Los Angeles. The analysis included data preprocessing, exploratory analysis, and visualization to identify trends, evaluate competition, and extract insights relevant to business decision-making.
