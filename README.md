@@ -17,7 +17,7 @@ To support potential investors in assessing the feasibility of a high-cost, inno
 ### Tools & Languages Used:
 - Languages: Python
 - Libraries: Pandas, NumPy, Datetime, Matplotlib, Seaborn, scipy.stats, plotly.graph_objects, plotly.express
-- Environment: Visual Studio Code
+- Workspace: Visual Studio Code
 
 ### Possible Improvements & Next Steps
 - Perform a geospatial analysis to evaluate commercial vs. residential zones.
