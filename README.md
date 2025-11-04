@@ -1,18 +1,17 @@
 # Market_Analysis
 The *market_analysis_project.ipynb* notebook provided above contains the complete code for data cleaning and wrangling, creating visualizations, and conducting further analyses.
 
+### What Was Done?
+A market analysis was conducted using open data on restaurants in Los Angeles. The analysis included data preprocessing, exploratory analysis, and visualization to identify trends, evaluate competition, and extract insights relevant to business decision-making.
+
 ### Objective
-To support potential investors in assessing the feasibility of a high-cost, innovative café concept featuring robotic waiters by understanding local market dynamics and long-term viability beyond the initial novelty.
+Support potential investors in assessing the feasibility of a high-cost, innovative café concept featuring robotic waiters by understanding local market dynamics and long-term viability beyond the initial novelty.
 
 ### Tools & Languages Used:
 - Languages: Python
 - Libraries: Pandas, NumPy, Datetime, Matplotlib, Seaborn, scipy.stats, plotly.graph_objects, plotly.express
 - Workspace: Visual Studio Code
   
-### What Was Done?
-A market analysis was conducted using open data on restaurants in Los Angeles. The analysis included data preprocessing, exploratory analysis, and visualization to identify trends, evaluate competition, and extract insights relevant to business decision-making.
-
-
 
 ### Results
 - Restaurant Dominance: Over 75% of establishments are classified as restaurants; fast-foods account for 11%, and cafes 4.5%.
